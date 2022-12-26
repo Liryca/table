@@ -4,10 +4,6 @@ import { words, columnsWord } from './data';
 
 
 const Component: React.FC = () => {
-
-  
-
-
     return (
         <div>
             <Table
