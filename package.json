@@ -1,5 +1,5 @@
 {
-  "homepage": "https://liryca.github.io/table/index.html",
+  "homepage": "https://liryca.github.io/table/",
   "name": "table",
   "version": "0.1.0",
   "private": true,
@@ -50,7 +50,9 @@
     ]
   },
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  },
   "author": "",
   "license": "ISC",
   "description": ""
